@@ -1,3 +1,8 @@
+# Name: Nikhil Pathak
+# Tak #1 Basic Banking System
+# The Sparks Foundation
+# Graduate Rotational Internship Program (GRIP)
+# GRIP April 2021
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
